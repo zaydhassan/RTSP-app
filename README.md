@@ -84,7 +84,3 @@ npm start
 | DELETE | /overlays/&lt;id&gt;      | Delete overlay     |
 
 ---
-
-## ⚡ Quickstart
-
-### 1. Backend Setup
